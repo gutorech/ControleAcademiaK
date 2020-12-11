@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(capa2.jpg);
+    background-image: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.label{
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: normal;
+}
+
+.form-control{
+    background: rgba(255, 255, 255, 0.2);
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid white;
+    font-size: 21px;
+    color: black;
+    margin-top: 20px;
+}
+
+small{
+    font-size: 18px;
+    color: black;    
+}
+
+option{
+    color: black;
+}
+.btn-info{
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 180px;
+    font-size: 19px;
+    border-radius: 1000px;
+}
+.col-md-6{
+    background: rgba(0,0,0,0,4);
+    height: 660px;
+    box-shadow: -1px 1px 60px 10px black inset;
+}
